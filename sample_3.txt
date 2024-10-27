@@ -1,0 +1,17 @@
+<START_OF_QUESTION>Choose from the following chlorides to answer the questions. <br />
+aluminium chloride <br />
+ammonium chloride <br />
+cobalt(II) chloride <br />
+hydrogen chloride <br />
+iron(III) chloride <br />
+potassium chloride <br />
+silver chloride <br />
+sodium chloride <br />
+Each chloride may be used once, more than once or not at all.<br />
+State which chloride: <br />
+<START_OF_PART>(a) contains a cation with a charge of 2+ [1]<END_OF_PART>
+<START_OF_PART>(b) reacts with aqueous sodium hydroxide to form a red-brown precipitate [1]<END_OF_PART>
+<START_OF_PART>(c) is insoluble in water [1]<END_OF_PART>
+<START_OF_PART>(d) reacts with sodium hydroxide when warmed to produce a gas which turns damp red litmus paper blue [1]<END_OF_PART>
+<START_OF_PART>(e) when added to water can form an aqueous solution with a pH of 1. [1]<END_OF_PART>
+[Total: 5]<END_OF_QUESTION>
