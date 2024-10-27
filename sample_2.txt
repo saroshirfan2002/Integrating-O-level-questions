@@ -1,0 +1,15 @@
+<START_OF_QUESTION>This question is about sulfuric acid and sulfates.<br />
+It covers multiple aspects of reactions and compounds.<br />
+<START_OF_PART>(a) (i) Sulfur is one of the raw materials used in the Contact process to make sulfuric acid.<br />
+Name two other raw materials used to make sulfuric acid. [1]<END_OF_PART>
+<START_OF_PART>(ii) Name the catalyst used in the Contact process. [1]<END_OF_PART>
+<START_OF_PART>(b) The electrolysis of dilute sulfuric acid using inert electrodes produces oxygen at the anode.<br />
+(i) Define the term electrolysis. [2]<END_OF_PART>
+<START_OF_PART>(ii) Construct the equation for the reaction taking place at the cathode. [1]<END_OF_PART>
+<START_OF_PART>(c) Dilute sulfuric acid reacts with sodium hydroxide.<br />
+\\text{H}_2\\text{SO}_4 + 2\\text{NaOH} \\rightarrow \\text{Na}_2\\text{SO}_4 + 2\\text{H}_2\\text{O}<br />
+A student adds 0.76 g of solid sodium hydroxide to 45 cm<sup>3</sup> of 0.20 mol/dm<sup>3</sup> sulfuric acid.<br />
+Show by calculation that the sodium hydroxide is in excess. [3]<END_OF_PART>
+<START_OF_PART>(d) Aqueous sodium hydroxide is warmed with ammonium sulfate.<br />
+State the names of the three products formed in this reaction. [2]<END_OF_PART>
+[Total: 10]<END_OF_QUESTION>
