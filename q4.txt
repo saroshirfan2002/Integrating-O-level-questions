@@ -1,0 +1,14 @@
+<START_OF_QUESTION>Alkanes are a homologous series of hydrocarbons. The boiling point, melting point and density of <br \> 
+alkanes increase as the number of carbon atoms increases.
+<START_OF_PART>(a) (i) Give one other physical property of alkanes which increases as the number of carbon atoms increases. [1]<END_OF_PART>
+<START_OF_PART>(ii) Give two other characteristics of a homologous series. [2]<END_OF_PART>
+<START_OF_PART>(b) Two typical reactions of alkanes are combustion and cracking. <br \>
+State the name of another typical chemical reaction of alkanes and the reactant needed to react with the alkanes. [2]<END_OF_PART>
+<START_OF_PART>(c) Alkenes are produced by cracking alkanes. <br \>
+(i) State two conditions needed for cracking alkanes. [2]<END_OF_PART>
+<START_OF_PART>(ii) Tridecane, [[\\text{C}_{13}\\text{H}_{28}]]</InlineMath>, can be cracked to produce an alkene with four carbon atoms and<br \>
+one other hydrocarbon only.<br \>
+Construct an equation for this reaction. [1]<END_OF_PART>
+<START_OF_PART>(d) A hydrocarbon contains 88.9% carbon by mass. <br \>
+Calculate the empirical formula of this compound. [2]<END_OF_PART>
+[Total: 10]<END_OF_QUESTION>
