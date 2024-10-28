@@ -1,0 +1,9 @@
+<START_OF_QUESTION>Lithium reacts with aqueous zinc iodide. <br \>
+[[2\\text{Li} + \\text{ZnI}_2 \\rightarrow 2\\text{LiI} + \\text{Zn}]]
+<START_OF_PART>(a) Explain, by referring to the equation, why this reaction involves both oxidation and reduction. [2]<END_OF_PART>
+<START_OF_PART>(b) Acidified aqueous silver nitrate is added to aqueous zinc iodide. <br \>
+ State the observations made. [1]<END_OF_PART>
+<START_OF_PART>(c) (i) When aqueous bromine reacts with aqueous zinc iodide a brown solution is formed. <br \>
+Name the products of this reaction. [1]<END_OF_PART>
+<START_OF_PART>(ii) Explain why aqueous bromine does not react with aqueous zinc chloride. [1]<END_OF_PART>
+[Total: 5]<END_OF_QUESTION>
