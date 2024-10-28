@@ -1,0 +1,15 @@
+<START_OF_QUESTION>
+<START_OF_PART> (a)(i) air AND water [1] <END_OF_PART>
+<START_OF_PART> (a)(ii) vanadium(V) oxide [1] <END_OF_PART>
+<START_OF_PART> (b)(i) decomposition of an ionic compound / decomposition of an electrolyte [1] <br />
+    using electricity [1] <END_OF_PART>
+<START_OF_PART> (b)(ii) [[2\\text{H}^+ + 2\\text{e}^- \\rightarrow \\text{H}_2 ]] [1] <END_OF_PART>
+<START_OF_PART>(c) mol H2SO4 = 45/1000 × 0.20 OR 0.009 [1] <br />
+mol sodium hydroxide = 0.76 40 OR 0.019 mol [1] <br />
+(sodium hydroxide because 0.019 is greater than) 2 × 0.009 <br />
+OR <br />
+(sodium hydroxide because 0.009 is less than) 0.019 / 2 [1] 
+<START_OF_PART>(d) ammonia AND sodium sulfate AND water <br />
+if 2 marks not scored 1 mark for any two of
+ammonia, sodium sulfate or water [2] <END_OF_PART>
+<END_OF_QUESTION>
