@@ -1,0 +1,12 @@
+<START_OF_QUESTION>
+<START_OF_PART> (a) carbon monoxide [1] <br \>
+octane [1] <END_OF_PART>
+<START_OF_PART> (b)limewater [1] <br \>
+turns milky / turns cloudy / white precipitate [1] <END_OF_PART>
+<START_OF_PART> (c) decomposition of vegetation / decomposition of plants  [1] <END_OF_PART>
+<START_OF_PART> (d) greenhouse [1] <br \>
+global warming [1] <END_OF_PART>
+<START_OF_PART> (e) mention of nitrogen oxides and carbon monoxide (as the pollutants / reactants) [1] <br \>
+nitrogen / N2 (in exhaust gases) [1] <br \> 
+carbon dioxide / CO2 (in exhaust gases) [1] <END_OF_PART>
+<END_OF_QUESTION>
