@@ -1,0 +1,14 @@
+<START_OF_QUESTION>
+<START_OF_PART> (a) initial gradient less steep AND starting from origin [1] <br \>
+line levels off at lower than [[45 \\text{cm}^3]]gas [1] <END_OF_PART>
+<START_OF_PART> (b)(i) rate of reaction increases AND one or both of: <br \>
+more particles exposed on surface / more (magnesium) particles per unit area / more particles per cm2 [1] <br \>
+collision frequency increases / collision rate increases / more collisions per second [1] <br \>  <END_OF_PART>
+<START_OF_PART> (b)(ii)  rate of reaction decreases AND one or both of: <br />
+particles move more slowly / particles have less kinetic energy [1] <br \>
+fewer particles have activation energy (or above) / collisions are less successful [1] <END_OF_PART>
+<START_OF_PART> (c) mol magnesium = 1.68/24 OR 0.070 mol [1] <br \>
+volume of oxygen = 1.68 ([[\\text{dm}^3]]) [1] <END_OF_PART>
+<START_OF_PART> (d)add (aqueous acidified) potassium manganate(VII) [1] <br \> 
+turns from purple to colourless [1] <END_OF_PART>
+<END_OF_QUESTION>
