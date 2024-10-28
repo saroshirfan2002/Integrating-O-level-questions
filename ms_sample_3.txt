@@ -1,0 +1,7 @@
+<START_OF_QUESTION>
+<START_OF_PART>(a) cobalt(II) chloride [1]<END_OF_PART>
+<START_OF_PART>(b) iron(III) chloride [1]<END_OF_PART>
+<START_OF_PART>(c) silver chloride [1]<END_OF_PART>
+<START_OF_PART>(d) ammonium chloride [1]<END_OF_PART>
+<START_OF_PART>(e) hydrogen chloride [1]<END_OF_PART>
+<END_OF_QUESTION>
