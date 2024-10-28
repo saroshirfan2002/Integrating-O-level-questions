@@ -1,0 +1,22 @@
+<START_OF_QUESTION>
+  <START_OF_PART> (a) [[\\text{C}_{3}\\text{H}_{6}\\text{O}]] [1] <END_OF_PART>
+  <START_OF_PART> (b) orange to colourless  [1] <END_OF_PART>
+  <START_OF_PART> (c) potassium manganate(VII) [1] <END_OF_PART>
+  <START_OF_PART> (b)(ii) ions can move / has mobile ions [1] <END_OF_PART>
+  <START_OF_PART>(b)(iii) 3 pairs of bonding electrons between each H and P AND 2 non-bonding electrons on P [1] <END_OF_PART>
+  <START_OF_PART>(d)  H 	H2COH H	  H2COH <br \>
+                      │ 	 │    │    │ <br \>
+                    ─ C ── C ── C ── C─ (2 marks) <br \>
+                      │ 	 │    │	   │ <br \>
+                      H    H    H    H <br \>
+  if two marks not scored 1 mark for<br \>
+  ─ C ── C ── C ── C─ <END_OF_PART>
+  <START_OF_PART>(e)  O <br \>
+          ║ <br \>
+      ─ O─C–H [1] <END_OF_PART>
+  <START_OF_PART> (f)(i) [[\\text{H}^+]] [1] <END_OF_PART>
+  <START_OF_PART> (f)(ii)methanoic acid has a lower concentration of [[\\text{H}^+]] ions / hydrochloric acid has a higher concentration of H+ ions  [1] <END_OF_PART>
+  <START_OF_PART> (g) [[2\\text{HCOOH} + \\text{Mg} \\rightarrow (\\text{HCOO})_2\\text{Mg} + \\text{H}_2]] [2] <br \>
+  if two marks not scored 1 mark for [[(\\text{HCOO})_2\\text{Mg}]]
+  <END_OF_QUESTION>
+  
