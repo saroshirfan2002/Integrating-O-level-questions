@@ -1,0 +1,22 @@
+<START_OF_QUESTION>This question is about pollutant gases. <br \>
+<START_OF_PART>(a) Hydrocarbons such as octane are used as fuels for cars. <br \>
+The list shows the gases present in a car exhaust. <br \>
+carbon dioxide <br \>
+carbon monoxide <br \>
+nitrogen <br \>
+nitrogen dioxide <br \>
+octane <br \>
+water vapour <br \>
+State which two gases in the list show that incomplete combustion has taken place in this car
+engine. [2]<END_OF_PART>
+<START_OF_PART> (b) Describe a test for carbon dioxide.<br \>
+test and observation: [2]<END_OF_PART>
+<START_OF_PART>(c) Two natural sources of methane in the atmosphere are from leaks of natural gas and waste gases from animals. <br \>
+Give one other natural source of methane in the atmosphere. [1]<END_OF_PART>
+<START_OF_PART>Complete this sentence about the effect of an increase in the concentration of methane in the atmosphere.<br \>
+Methane is a .............................. gas because it absorbs and then re-emits infrared <br \>
+radiation. This contributes to an increase in temperature of the atmosphere which is called <br \>
+.............................. ..............................  [2]<END_OF_PART>
+<START_OF_PART>(e) Cars are fitted with catalytic converters to reduce the amount of harmful pollutant gases from car exhausts.<br \>
+Describe how catalytic converters remove pollutant gases from car exhausts [3]<END_OF_PART>
+[Total: 10]<END_OF_QUESTION>
