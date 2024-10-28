@@ -1,0 +1,11 @@
+<START_OF_QUESTION>Phosphorus reacts with hydrogen to produce phosphine, PH3. <br />
+[[2\\text{P} + 3\\text{H}_2 \\rightarrow 2\\text{PH}_3]]<br />
+The reaction is endothermic.
+<START_OF_PART>(a) Complete the energy profile diagram for this reaction. <br />
+Label reactants, products and ∆H.
+<INSERT_DIAGRAM> [2]<END_OF_PART>
+<START_OF_PART>(b) Explain, in terms of bond breaking and bond forming, why the reaction is endothermic. [2]<END_OF_PART>
+<START_OF_PART>(c) Phosphine reacts with oxygen to form phosphorus(V) oxide, \text{P}4\text{O}{10}, and water.<br />
+Complete the equation for this reaction.<br />
+[[\\text{...PH}3 + \\text{...O}_2 \\rightarrow \\text{P}_4\\text{O}{10} + \\text{...H}_2\\text{O}]] [1]<END_OF_PART>
+[Total: 5]<END_OF_QUESTION>
