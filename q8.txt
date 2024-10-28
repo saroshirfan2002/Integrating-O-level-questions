@@ -1,0 +1,19 @@
+<START_OF_QUESTION>The structure of an organic compound, T, is shown.
+<INSERT_DIAGRAM>
+<START_OF_PART>(a) Deduce the molecular formula of compound T. [1] <END_OF_PART>
+<START_OF_PART>(b) Compound T is a colourless liquid.<br />
+State the colour change when excess compound T is added to aqueous bromine. [1] <END_OF_PART>
+<START_OF_PART>(c) Compound T can be oxidised to a carboxylic acid. <br />
+Suggest a suitable oxidising agent for this reaction. [1] <END_OF_PART>
+<START_OF_PART>Compound T can be polymerised. <br />
+Draw the partial structure of the polymer of compound T. Show two repeat units [2] <END_OF_PART>
+<START_OF_PART>(e) Compound T reacts with methanoic acid, HCOOH, to form an ester. <br />
+Complete the structure of this ester to show all the atoms and all the bonds.<br />
+<INSERT_DIAGRAM>
+[1] <END_OF_PART>
+<START_OF_PART>(f) Methanoic acid is a weak acid. Hydrochloric acid is a strong acid. <br />
+(i) Give the formula of the positive ion that is present in all acids. [1] <END_OF_PART>
+<START_OF_PART>(ii) Explain why the rate of reaction of [[1.0 \\, \\text{mol/dm}^3]] methanoic acid with magnesium is less than <br />
+the rate of reaction of [[1.0 \\, \\text{mol/dm}^3]] hydrochloric acid with magnesium. [1] <END_OF_PART>
+<START_OF_PART>(g) Construct the equation for the reaction of methanoic acid with magnesium. [2] <END_OF_PART>
+[Total: 10]<END_OF_QUESTION>
