@@ -1,0 +1,17 @@
+<START_OF_QUESTION>This question is about elements in Group V of the Periodic Table.<br />
+<START_OF_PART>(a) The table shows some properties of the Group V elements.<br />
+<INSERT_DIAGRAM><br />
+Use the information in the table to:<br />
+(i) predict the density of antimony. [1]<END_OF_PART>
+<START_OF_PART>(ii) suggest why it is difficult to predict the melting point of arsenic. [1]<END_OF_PART>
+<START_OF_PART>(b) The structure of two compounds of phosphorus, R and S, are shown.<br />
+<INSERT_DIAGRAM><br />
+<INSERT_DIAGRAM><br />
+(i) Explain in terms of structure and bonding why compound R has a high melting point and<br />
+compound S has a low melting point. [4]<END_OF_PART>
+<START_OF_PART>(ii) Explain why compound R conducts electricity when molten. [1]<END_OF_PART>
+<START_OF_PART>(iii) Draw a dot-and-cross diagram for a molecule of compound S.<br />
+Show only the outer shell electrons. [1]<END_OF_PART>
+<START_OF_PART>(c) An oxide of phosphorus has the formula [[\\text{P}_4\\text{O}_{10}]].<br /> 
+Calculate the percentage by mass of phosphorus in this compound. [2]<END_OF_PART>
+[Total: 10]<END_OF_QUESTION>
