@@ -1,13 +1,13 @@
 <START_OF_QUESTION>Sodium is a metal in Group I of the Periodic Table. Diamond (carbon) is a non-metal which is a good conductor of heat.<br />
 <START_OF_PART>(a) State two differences in the physical properties of sodium and diamond. [2]<END_OF_PART>
 <START_OF_PART>(b) An ion of sodium has the symbol<br />
-^{23}_{11}\\text{Na}^+<br />
+[[^{23}_{11}\\text{Na}^+]]+<br />
 Deduce the number of protons, neutrons, and electrons in this ion. [3]<END_OF_PART>
 <START_OF_PART>(c) Sodium reacts with nitrogen to form sodium nitride.<br />
 Complete the equation for this reaction.<br />
-\\text{...... Na} + \\text{............} \\rightarrow \\text{Na}_3\\text{N} [1]<END_OF_PART>
+[[\\text{...... Na} + \\text{............} \\rightarrow \\text{Na}_3\\text{N} ]][1]<END_OF_PART>
 <START_OF_PART>(d) When carbon is heated with steam in a closed container, an equilibrium mixture is formed.<br />
-\\text{C(s)} + \\text{H}_2\\text{O(g)} \\rightleftharpoons \\text{CO(g)} + \\text{H}_2\\text{(g)}<br />
+[[\\text{C(s)} + \\text{H}_2\\text{O(g)} \\rightleftharpoons \\text{CO(g)} + \\text{H}_2\\text{(g)}]]<br />
 The forward reaction is endothermic.<br />
 (i) Describe and explain the effect, if any, on the position of equilibrium when the temperature is increased. [2]<END_OF_PART>
 <START_OF_PART>(ii) Describe and explain the effect, if any, on the position of equilibrium when the pressure is decreased. [2]<END_OF_PART>
