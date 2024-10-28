@@ -1,0 +1,18 @@
+<START_OF_QUESTION>
+<START_OF_PART> (a) Any two from: <br />
+sodium conducts electricity / diamond does not conduct electricity [1] <br />
+sodium malleable / diamond brittle [1] <br />
+brittle [1] <br />
+sodium ductile / diamond not ductile [1] <br />
+sodium soft / diamond hard [1] <END_OF_PART>
+<START_OF_PART> (b) protons: 11 [1] <br />
+neutrons: 12 [1] <br />
+electrons: 10 [1]  <END_OF_PART>
+<START_OF_PART> (c) [[6\\text{Na} + \\text{N}_2 \\rightarrow 2\\text{Na}_3\\text{N}]] [1] <END_OF_PART>
+<START_OF_PART> (d)(i) equilibrium moves to the right / more product formed [1] <br />
+(increasing the temperature) pushes the reaction in the direction of absorbing energy / (increasing the temperature) pushes <br />
+the reaction in the direction of the endothermic reaction [1] <END_OF_PART>
+<START_OF_PART>(d)(ii) equilibrium moves to the right / more product formed [1] <br />
+more gas molecules on right than on left / more moles of gas on right than on left / when pressure decreased reaction <br />
+moves in direction of more gas molecules [1] <END_OF_PART>
+<END_OF_QUESTION>
