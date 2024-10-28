@@ -1,0 +1,7 @@
+<START_OF_QUESTION>
+<START_OF_PART> (a) reactants on the left and products on the right and reactant line below product line [1] <br \>
+arrow upwards between reactants and products with ΔH label [1] <END_OF_PART>
+<START_OF_PART> (b) bond breaking endothermic and bond making exothermic / (thermal) energy absorbed to break bonds and (thermal) energyreleased on making bonds [1] <br \>
+more energy absorbed than released [1] <END_OF_PART>
+<START_OF_PART> (c) [[4\\text{PH}_{3} + 8\\text{O}_{2} \\rightarrow \\text{P}_{4}\\text{O}_{10} + 6\\text{H}_{2}\\text{O}]] [1] <END_OF_PART>
+<END_OF_QUESTION>
