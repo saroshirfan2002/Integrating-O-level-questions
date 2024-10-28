@@ -1,0 +1,17 @@
+<START_OF_QUESTION>
+<START_OF_PART> (a)(i) viscosity  [1] <END_OF_PART>
+<START_OF_PART> (a)(ii) Any two from:  <br \>
+similar chemical properties [1] <br \>
+same functional group [1] <br \>
+(have a) general formula [1] <br \>
+(successive) members differ by [[\\text{C}\\text{H}_{2}]] [1] <END_OF_PART>
+<START_OF_PART> (b) type of reaction: substitution [1] <br \>
+reactant: chlorine [1]   <END_OF_PART>
+<START_OF_PART> (c)(i)  high temperature [1] <br \>
+catalyst [1] <END_OF_PART>
+<START_OF_PART> (c)(ii) [[\\text{C}_{13}\\text{H}_{28} \\rightarrow \\text{C}_{4}\\text{H}_{8} + \\text{C}_{9}\\text{H}_{20}]] <br \>
+OR <br \>
+[[\\text{C}_{13}\\text{H}_{28} \\rightarrow 2\\text{C}_{4}\\text{H}_{8} + \\text{C}_{5}\\text{H}_{12}]] <br \>
+OR <br \>
+[[\\text{C}_{13}\\text{H}_{28} \\rightarrow 3\\text{C}_{4}\\text{H}_{8} + \\text{CH}_{4}]] [1] <END_OF_PART>
+<END_OF_QUESTION>
