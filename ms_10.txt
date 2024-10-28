@@ -1,0 +1,13 @@
+<START_OF_QUESTION>
+<START_OF_PART> (a)(i) values between 6.00 and 9.50 (inclusive of these values) [1] <END_OF_PART>
+<START_OF_PART> (a)(ii) there is no trend (down the group) [1] <END_OF_PART>
+<START_OF_PART> (b)(i) R is an ionic structure / R has an ionic lattice / R is giant ionic [1] <br \>
+R bonds (throughout lattice) are strong [1]
+(dependent on the mention of ions / ionic for R)<br \>
+S is a simple molecular structure / small molecule / simple molecule [1] <br \>
+S weak forces between molecules [1]  <END_OF_PART>
+<START_OF_PART> (b)(ii) ions can move / has mobile ions [1] <END_OF_PART>
+<START_OF_PART>(b)(iii) 3 pairs of bonding electrons between each H and P AND 2 non-bonding electrons on P [1] <END_OF_PART>
+<START_OF_PART>(c) 43.7 (%) [2] <br \>
+If 2 marks not scored 1 mark for molar mass of [[\\text{P}_4\\text{O}_{10}]] = 284 <END_OF_PART>
+<END_OF_QUESTION>
