@@ -7,7 +7,7 @@ Name two other raw materials used to make sulfuric acid. [1]<END_OF_PART>
 <START_OF_PART>(ii) Construct the equation for the reaction taking place at the cathode. [1]<END_OF_PART>
 <START_OF_PART>(c) Dilute sulfuric acid reacts with sodium hydroxide.<br />
 [[\\text{H}_2\\text{SO}_4 + 2\\text{NaOH} \\rightarrow \\text{Na}_2\\text{SO}_4 + 2\\text{H}_2\\text{O}]]<br />
-A student adds 0.76 g of solid sodium hydroxide to 45 cm<sup>3</sup> of 0.20 mol/dm<sup>3</sup> sulfuric acid.<br />
+A student adds 0.76 g of solid sodium hydroxide to [[45 \\, \\text{cm}^3 ]]of [[0.20 \\, \\text{mol/dm}^3]] sulfuric acid.<br />
 Show by calculation that the sodium hydroxide is in excess. [3]<END_OF_PART>
 <START_OF_PART>(d) Aqueous sodium hydroxide is warmed with ammonium sulfate.<br />
 State the names of the three products formed in this reaction. [2]<END_OF_PART>
