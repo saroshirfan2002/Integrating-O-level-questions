@@ -1,0 +1,22 @@
+<START_OF_QUESTION>Magnesium ribbon reacts with dilute hydrochloric acid. <br \>
+[[\\text{Mg(s)} + 2\\text{HCl(aq)} \\rightarrow \\text{MgCl}{2}\\text{(aq)} +\\text{H}{2}\\text{(g)}]]
+<START_OF_PART>(a) The graph shows the volume of hydrogen gas produced at 20 °C as the reaction proceeds. <br \>
+The magnesium is in excess. <br \>
+<INSERT_DIAGRAM>
+The experiment is repeated using a lower concentration of hydrochloric acid. <br \>
+The volume of acid used and all other conditions are the same. <br \>
+Draw a line on the grid to show how the volume of hydrogen gas produced changes with <br \>
+time when the reaction is done with a lower concentration of hydrochloric acid. [2]<END_OF_PART>
+<START_OF_PART>(b)(i) Describe and explain, using ideas about collisions between particles, how the rate of the <br \>
+reaction changes when magnesium powder is used instead of magnesium ribbon.<br \>
+All other conditions are the same.[2]<END_OF_PART>
+<START_OF_PART>(ii) Describe and explain, using ideas about collisions between particles, how the rate of the <br \>
+reaction changes when the temperature of the reaction mixture is decreased. <br \>
+All other conditions are the same.[2]<END_OF_PART>
+<START_OF_PART>(c) Calculate the maximum volume, in dm3, of hydrogen formed when 1.68 g of magnesium react<br \>
+ with excess dilute hydrochloric acid at room temperature and pressure.<br \>
+Give your answer to three significant figures.[2]<END_OF_PART>
+<START_OF_PART>(d) Magnesium is a good reducing agent.<br \>
+Describe a test for reducing agents.<br \>
+test and observation[2]<END_OF_PART>
+[Total: 10]<END_OF_QUESTION>
